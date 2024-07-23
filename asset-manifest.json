@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/METALBODY/static/css/main.195180cc.css",
+    "main.js": "/METALBODY/static/js/main.961607a6.js",
+    "static/js/453.519156d3.chunk.js": "/METALBODY/static/js/453.519156d3.chunk.js",
+    "static/media/contactus.png": "/METALBODY/static/media/contactus.31a8fde860dc59c98834.png",
+    "static/media/gymhome.jpeg": "/METALBODY/static/media/gymhome.4e728de9d68337aec8ba.jpeg",
+    "static/media/cardio-1.png": "/METALBODY/static/media/cardio-1.436fb510b078acd3e2cf.png",
+    "static/media/about1.webp": "/METALBODY/static/media/about1.cb2c20c58a09284ae80e.webp",
+    "static/media/wl-1.png": "/METALBODY/static/media/wl-1.4c52efdfc9453c11f4f1.png",
+    "static/media/mail3d.png": "/METALBODY/static/media/mail3d.ae6fc4fde00bab8603d4.png",
+    "static/media/phone.png": "/METALBODY/static/media/phone.17deba7437f5909224b5.png",
+    "static/media/strength.webp": "/METALBODY/static/media/strength.99474fbc1a269de1b964.webp",
+    "index.html": "/METALBODY/index.html",
+    "main.195180cc.css.map": "/METALBODY/static/css/main.195180cc.css.map",
+    "main.961607a6.js.map": "/METALBODY/static/js/main.961607a6.js.map",
+    "453.519156d3.chunk.js.map": "/METALBODY/static/js/453.519156d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.195180cc.css",
+    "static/js/main.961607a6.js"
+  ]
+}
